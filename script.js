@@ -1,13 +1,13 @@
 
 const DATA={
- groom:'Nama Mempelai Pria',
- bride:'Nama Mempelai Wanita',
- akadTanggal:'20 Desember 2026 08:00 WIB',
- akadLokasi:'Masjid Contoh',
- resepsiTanggal:'20 Desember 2026 11:00 WIB',
- resepsiLokasi:'Gedung Contoh',
- maps:'https://maps.google.com',
- countdown:'2026-12-20T08:00:00'
+ groom:'RESTU PRIHANTO',
+ bride:'FIKA ISMIATUL AFYANI',
+ akadTanggal:'26 JULI 2026 08:00 WIB',
+ akadLokasi:'Mesjid',
+ resepsiTanggal:'26 JULI 2026 11:00 WIB',
+ resepsiLokasi:'Jln KH Zruqi RT 03 RW 03 Karang Tengah Benda Sirampong Brebes',
+ maps:'https://www.google.com/maps/search/Jln+KH+Zruqi+RT+03+RW+03+Karang+Tengah+Benda+Sirampong+Brebes/@-6.8701401,108.8989807,9115m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI2MDYwOS4wIKXMDSoASAFQAw%3D%3D',
+ countdown:'2026-07-26T08:00:00'
 };
 
 document.getElementById('couple').innerText=`${DATA.groom} & ${DATA.bride}`;
