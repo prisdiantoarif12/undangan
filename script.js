@@ -1,6 +1,4 @@
-// =========================
-// GANTI SEMUA DATA DI SINI
-// =========================
+
 const DATA={
  groom:'Nama Mempelai Pria',
  bride:'Nama Mempelai Wanita',
